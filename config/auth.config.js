@@ -1,3 +1,3 @@
 module.exports ={
-    "secret":"Chayatip-secret-key"
+    "secret":"Yanakorn-secret-key"
 };

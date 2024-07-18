@@ -2,6 +2,10 @@ const express = require("express");
 const router = express.Router();
 const restaurantController = require("../controllers/restaurant.controller");
 
+
+//http://localhost:5000/api/v1/restaurant
+
+
 //Create a restaurant
 
 router.post("/", restaurantController.create);
